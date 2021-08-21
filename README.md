@@ -1,5 +1,5 @@
 # My-Shopping-List
 
-Preview Here:
+Do you always forget what you have to buy once you're in at the supermarket?
 
-https://codepen.io/neo90sr/pen/LYbLeNV
+Now you can use this simple shopping list and you will never forget your groceries!
